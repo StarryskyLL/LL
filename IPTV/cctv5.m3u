@@ -1,0 +1,4 @@
+#EXTINF:-1 tvg-id="CCTV5Plus.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/90/CCTV-5%2B_Logo.png/512px-CCTV-5%2B_Logo.png" group-title="Undefined",CCTV-5+体育赛事 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
+#EXTINF:-1 tvg-id="CCTV5.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/33/CCTV-5_Logo.png" group-title="Sports",CCTV-5体育 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225633/index.m3u8
