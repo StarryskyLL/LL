@@ -1,1 +1,1 @@
-存放私人使用的一些东西,测试一些东西
+[点击这里安装 GitHub Releases 全宽脚本](https://github.com/StarryskyLL/LL/raw/refs/heads/master/Tampermonkey/github-wide-releases.user.js)
